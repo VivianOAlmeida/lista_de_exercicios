@@ -1,0 +1,27 @@
+#topo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: blue;
+    padding: 15px;
+}
+
+#conteudo{
+    background-color: gray;
+    left: 0;
+    width: 100%;
+    padding: 15px;
+    height: calc(100vh - 120px); /* altura da tela menos topo e rodapé */
+    margin-top: 100px;
+}
+
+#rodape{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}

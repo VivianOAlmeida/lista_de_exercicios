@@ -1,0 +1,24 @@
+#menu ul{
+    list-style: none;
+    position: absolute;
+    top: 40px;
+    left: 700px
+}
+#menu{
+    display: block;
+}
+#menu li{
+    display: inline-block;
+    background: rgb(255, 93, 247);
+    padding: 10px;
+}
+header{
+    background: rgb(94, 176, 252);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+body{
+    font-family: Verdana;
+    background: linear-gradient(to right, #63feec, #fd2e62, #ffd05a);
+}

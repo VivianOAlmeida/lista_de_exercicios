@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#caixinha{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    width: 500px;
+    height: 60px;
+    border-radius: 10px;
+    border-top: 5px solid red;
+    border-right: 5px dashed blue;
+    border-bottom: 5px dotted purple;
+    border-left: 5px double green;
+}

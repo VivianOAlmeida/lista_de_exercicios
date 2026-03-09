@@ -1,0 +1,5 @@
+body{
+    color: blue;
+    height: 100vh;
+    background: linear-gradient(rgb(133, 4, 4), rgb(187, 4, 4), rgb(255, 3, 3));
+}
