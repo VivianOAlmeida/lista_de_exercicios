@@ -22,3 +22,10 @@ body{
     font-family: Verdana;
     background: linear-gradient(to right, #63feec, #fd2e62, #ffd05a);
 }
+#rodape{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px;
+}
